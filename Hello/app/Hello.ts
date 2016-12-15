@@ -5,6 +5,4 @@ import { Component } from '@angular/core';
   templateUrl: 'templates/hello.html',
   styleUrls: ['styles/hello.css']
 })
-export class HelloComponent {
-	toi :string='chef';
-}
+export class Hello  {}
